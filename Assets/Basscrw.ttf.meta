@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f9574715413c57349a7033971fe8946b
+timeCreated: 1495715004
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Basscrw
+  fontNames:
+  - Basscrw
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
